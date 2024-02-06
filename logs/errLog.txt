@@ -1,0 +1,27 @@
+20230321	11:35:39	ae898ed6-be7a-4287-92ec-63ebb9b1dcd2	Error: Not allowed by CORS
+20230321	11:35:55	ddb362be-516a-4273-897e-6f3c4c5e5fff	Error: Not allowed by CORS
+20230321	11:39:05	3905be5e-40f7-450d-939c-8072cfb3f532	Error: Not allowed by CORS
+20230321	11:57:22	1b3923ca-7bad-45fc-b825-21fd3a12a8e5	Error: Not allowed by CORS
+20230321	15:44:25	89edeeb3-6856-451f-b05f-6b7aa99edb6e	Error: Not allowed by CORS
+20230321	17:14:40	636a5a92-dc8c-4768-bf42-db3ada1bb4a0	Error: Not allowed by CORS
+20230321	17:14:55	28f01bef-abfd-4c72-bc94-4f7fc8ef8b00	Error: Not allowed by CORS
+20230321	17:33:04	f74db3a3-73f9-4508-8bf1-457e128a542a	Error: Not allowed by CORS
+20230321	17:35:40	4e5193be-c447-422b-a6ef-85261ec8dc23	Error: Not allowed by CORS
+20230321	17:35:45	ed872e6c-f523-40b0-896a-1c16cd22b034	Error: Not allowed by CORS
+20230321	17:38:19	bc91ada5-fa35-4149-9c0d-83d925996218	Error: Not allowed by CORS
+20230321	17:38:30	3db0e965-847c-4fe7-a8f6-d46e31f40b9a	Error: Not allowed by CORS
+20230321	17:44:19	2d2ad627-c1e8-4ed3-8f49-fe0cce3daab6	Error: Not allowed by CORS
+20240110	09:34:40	a97c96af-10de-4697-b659-2679c33cda5a	ReferenceError: crud is not defined
+20240110	09:36:44	e1892dfe-6595-431d-9d25-7313f84e995b	ReferenceError: crud is not defined
+20240110	09:38:12	33248569-6741-4ded-a2c9-ca71f0bf7ad0	ReferenceError: crud is not defined
+20240110	09:38:12	2adc8f8b-f2a8-4257-a838-1ff991ce43c8	ReferenceError: crud is not defined
+20240111	10:38:22	520ff8c5-35b1-4d8e-a461-8fb3bd2bc2f3	Error: Not allowed by CORS
+20240111	10:38:31	2cfbd339-ec95-4e56-9441-eef6a62ef38c	Error: Not allowed by CORS
+20240111	10:39:13	f09c98be-bcd7-4c36-a8e7-382cf8aae12f	Error: Not allowed by CORS
+20240111	10:39:13	43e27fc5-992f-49ce-9f3e-f6251f1fe55a	Error: Not allowed by CORS
+20240111	10:39:32	ced47a52-11b1-4cd5-9564-a9963a7fc1a6	Error: Not allowed by CORS
+20240111	11:06:04	552d04a8-a761-4fba-9629-c438246d00dd	Error: Not allowed by CORS
+20240111	11:06:04	a41b723b-a54d-45b9-b9d1-629f56ac66ff	Error: Not allowed by CORS
+20240111	11:06:57	ffe7dc31-92e2-4f86-87e0-2345db76b789	Error: Not allowed by CORS
+20240111	11:07:45	7cbb7c61-aae5-4e49-be9d-ae5da4be4eaa	Error: Not allowed by CORS
+20240111	16:31:49	95e6ea14-6e14-4387-9398-9248bd17a9e1	TypeError: crud.checkEmailExistInContacts is not a function
